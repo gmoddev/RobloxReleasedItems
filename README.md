@@ -1,5 +1,7 @@
-PLEASE DON'T STEAL AND TAKE CREDIT FOR THIS STUFF
+This is a lot of old and really bad stuff.
 
-Everything here was made by me (Not_Lowest#0317)
+I put all of the old stuff in legacy.
 
-I'll slowly add stuff
+https://github.com/gmoddev/CoreExample
+
+https://github.com/gmoddev/RobloxWeatherSystem
